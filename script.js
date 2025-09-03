@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "Hai, ada sesuatu untukmu...",
       "Sekarang lihat ini ya ~"
     ],
-wallpaper: "img/rasin1.jpg",
+wallpaper: "rasin1.jpg",
 
     scenes: [
       {
