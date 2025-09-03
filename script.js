@@ -5,11 +5,12 @@ document.addEventListener("DOMContentLoaded", function () {
       "Hai, ada sesuatu untukmu...",
       "Sekarang lihat ini ya ~"
     ],
-    wallpaper: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VkajI0ZzBvNDF0M3lzc3ozdWVwbDJvZXFtd2E5N2l4eWNkMDk2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ydWTcMBjimLbT1CHi/giphy.gif",
+wallpaper: "img/rasin1.jpg",
+
     scenes: [
       {
         image: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE1bHBzajZmNWxqcDZubXo4aGl4OHY2ZzF5ODIxNnEzOGExb3gwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tpVKvAabWt3G5csMkT/giphy.gif",
-        text: "Ayaaangg ❤️"
+        text: "Saayaaangg ❤️"
       },
       {
         image: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxZXd1NWVybWJ6c21seXhtbzlkamZpaXV2aW01YTVwcjA2d202eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xH88i6WQsAxR6/giphy.gif",
